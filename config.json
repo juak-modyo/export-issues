@@ -1,0 +1,7 @@
+{
+	"USERNAME": "the-user-with-permissions",
+	"TOKEN": "my-app-token",
+	"REPO_OWNER": "company-name",
+	"REPO_NAME": "repo-name",
+	"USER_AGENT": "user-agent-of-the-app"
+}
